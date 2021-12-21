@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ra-hw8-hooks-context-use-effect/static/css/main.6f1cea4e.chunk.css",
+    "main.js": "/ra-hw8-hooks-context-use-effect/static/js/main.c6a98a83.chunk.js",
+    "main.js.map": "/ra-hw8-hooks-context-use-effect/static/js/main.c6a98a83.chunk.js.map",
+    "runtime-main.js": "/ra-hw8-hooks-context-use-effect/static/js/runtime-main.ea5522e3.js",
+    "runtime-main.js.map": "/ra-hw8-hooks-context-use-effect/static/js/runtime-main.ea5522e3.js.map",
+    "static/js/2.fc84882d.chunk.js": "/ra-hw8-hooks-context-use-effect/static/js/2.fc84882d.chunk.js",
+    "static/js/2.fc84882d.chunk.js.map": "/ra-hw8-hooks-context-use-effect/static/js/2.fc84882d.chunk.js.map",
+    "index.html": "/ra-hw8-hooks-context-use-effect/index.html",
+    "static/css/main.6f1cea4e.chunk.css.map": "/ra-hw8-hooks-context-use-effect/static/css/main.6f1cea4e.chunk.css.map",
+    "static/js/2.fc84882d.chunk.js.LICENSE.txt": "/ra-hw8-hooks-context-use-effect/static/js/2.fc84882d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea5522e3.js",
+    "static/js/2.fc84882d.chunk.js",
+    "static/css/main.6f1cea4e.chunk.css",
+    "static/js/main.c6a98a83.chunk.js"
+  ]
+}
