@@ -1,0 +1,42 @@
+.list {
+  list-style-type: none;
+  margin: 0 1rem 0 0;
+  padding: 0;
+  border: 1px solid black;
+  width: 30%;  
+  height: 100%;
+  max-width: 300px;
+}
+
+.list-item {
+  padding: 1rem;
+}
+
+.list-item:nth-child(n) {
+  border-bottom: 1px solid black;
+  padding: 1rem;
+}
+
+.list-item:last-child {
+  border: none;
+}
+
+.details {
+  width: 30%;
+  max-width: 300px;
+}
+
+.details div:nth-child(n) {
+  border: 1px solid black;
+  border-top: none;
+  padding: 1rem;
+}
+
+.details-avatar {
+  width: 100%;
+  display: block;
+}
+
+.error {
+  color: red;
+}
